@@ -30,7 +30,7 @@ DOI: 10.11591/eei.v15i3.11549
 Contributors: Gulzat Ziyatbekova; Svetlana Beglerova; Alokhon Alikarieva; Madi Akhmetzhanov; Nuriddin Alikariev; Quvvatali Rakhimov; Yersultan Tulebayev
 - MODERN DATA ENCRYPTION METHODS: FROM AES TO QUANTUM CRYPTOGRAPHY, "Bulletin of West Kazakhstan University of Innovation and Technology" 2025-03-26 Journal article
 DOI: 10.62724/202510307
--Integration of Artificial Intelligence and Information Technologies: Current State and Development Prospects, "Bulletin of West Kazakhstan University of Innovation and Technology", 2024-09-30 Journal article
+- Integration of Artificial Intelligence and Information Technologies: Current State and Development Prospects, "Bulletin of West Kazakhstan University of Innovation and Technology", 2024-09-30 Journal article
 DOI: 10.62724/202430303
 
 
